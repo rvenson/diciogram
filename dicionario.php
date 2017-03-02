@@ -1,4 +1,6 @@
-<?php
+﻿<?php
+
+//Atualizado na aula de projetos
 
 define('BOT_TOKEN', 'YOUR_BOT_TOKEN_HERE');
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
